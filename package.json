@@ -1,0 +1,33 @@
+{
+  "name": "maxseg--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^5.3.7",
+    "@mhoc/axios-digest-auth": "^0.8.0",
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20.12.13",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "antd": "^5.17.4",
+    "axios": "^1.7.2",
+    "events": "^3.3.0",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "jq": "^1.7.2",
+    "knex": "^3.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "swr": "^2.2.5",
+    "zlib": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
